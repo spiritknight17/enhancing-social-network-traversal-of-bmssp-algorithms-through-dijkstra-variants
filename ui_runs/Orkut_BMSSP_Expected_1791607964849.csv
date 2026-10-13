@@ -1,0 +1,11 @@
+Topology,Environment,Algorithm,Time_Seconds,Mismatches,Status,Run
+Orkut,diffusion,BMSSP_Expected,30.509240,0,VERIFIED EXACT,1
+Orkut,diffusion,BMSSP_Expected,29.812132,0,VERIFIED EXACT,2
+Orkut,diffusion,BMSSP_Expected,29.663063,0,VERIFIED EXACT,3
+Orkut,diffusion,BMSSP_Expected,30.882969,0,VERIFIED EXACT,4
+Orkut,diffusion,BMSSP_Expected,29.766095,0,VERIFIED EXACT,5
+Orkut,diffusion,BMSSP_Expected,29.195173,0,VERIFIED EXACT,6
+Orkut,diffusion,BMSSP_Expected,29.731670,0,VERIFIED EXACT,7
+Orkut,diffusion,BMSSP_Expected,30.934628,0,VERIFIED EXACT,8
+Orkut,diffusion,BMSSP_Expected,29.934016,0,VERIFIED EXACT,9
+Orkut,diffusion,BMSSP_Expected,29.360956,0,VERIFIED EXACT,10

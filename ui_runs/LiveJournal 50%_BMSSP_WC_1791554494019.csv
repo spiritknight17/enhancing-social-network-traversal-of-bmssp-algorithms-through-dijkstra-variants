@@ -1,0 +1,2 @@
+Topology,Environment,Algorithm,Time_Seconds,Mismatches,Status,Run
+LiveJournal 50%,diffusion,BMSSP_WC,30.997525,0,VERIFIED EXACT,1

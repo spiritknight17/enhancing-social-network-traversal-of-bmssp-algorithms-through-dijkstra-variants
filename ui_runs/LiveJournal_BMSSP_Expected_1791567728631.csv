@@ -1,0 +1,11 @@
+Topology,Environment,Algorithm,Time_Seconds,Mismatches,Status,Run
+LiveJournal,diffusion,BMSSP_Expected,41.205857,0,VERIFIED EXACT,1
+LiveJournal,diffusion,BMSSP_Expected,40.410587,0,VERIFIED EXACT,2
+LiveJournal,diffusion,BMSSP_Expected,40.639806,0,VERIFIED EXACT,3
+LiveJournal,diffusion,BMSSP_Expected,41.199728,0,VERIFIED EXACT,4
+LiveJournal,diffusion,BMSSP_Expected,39.972503,0,VERIFIED EXACT,5
+LiveJournal,diffusion,BMSSP_Expected,40.393878,0,VERIFIED EXACT,6
+LiveJournal,diffusion,BMSSP_Expected,41.541181,0,VERIFIED EXACT,7
+LiveJournal,diffusion,BMSSP_Expected,40.070224,0,VERIFIED EXACT,8
+LiveJournal,diffusion,BMSSP_Expected,38.470043,0,VERIFIED EXACT,9
+LiveJournal,diffusion,BMSSP_Expected,36.383585,0,VERIFIED EXACT,10

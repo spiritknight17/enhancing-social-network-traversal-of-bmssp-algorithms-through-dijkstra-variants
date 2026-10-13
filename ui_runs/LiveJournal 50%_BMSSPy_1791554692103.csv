@@ -1,0 +1,2 @@
+Topology,Environment,Algorithm,Time_Seconds,Mismatches,Status,Run
+LiveJournal 50%,diffusion,BMSSPy,142.510675,0,VERIFIED EXACT,1

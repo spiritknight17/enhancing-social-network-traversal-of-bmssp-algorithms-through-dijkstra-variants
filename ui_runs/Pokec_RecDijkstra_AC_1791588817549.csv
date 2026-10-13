@@ -1,0 +1,11 @@
+Topology,Environment,Algorithm,Time_Seconds,Mismatches,Status,Run
+Pokec,diffusion,RecDijkstra_AC,12.525664,0,VERIFIED EXACT,1
+Pokec,diffusion,RecDijkstra_AC,15.376996,0,VERIFIED EXACT,2
+Pokec,diffusion,RecDijkstra_AC,16.014042,0,VERIFIED EXACT,3
+Pokec,diffusion,RecDijkstra_AC,16.712984,0,VERIFIED EXACT,4
+Pokec,diffusion,RecDijkstra_AC,16.556166,0,VERIFIED EXACT,5
+Pokec,diffusion,RecDijkstra_AC,16.835708,0,VERIFIED EXACT,6
+Pokec,diffusion,RecDijkstra_AC,15.955768,0,VERIFIED EXACT,7
+Pokec,diffusion,RecDijkstra_AC,16.477639,0,VERIFIED EXACT,8
+Pokec,diffusion,RecDijkstra_AC,16.769667,0,VERIFIED EXACT,9
+Pokec,diffusion,RecDijkstra_AC,17.473391,0,VERIFIED EXACT,10

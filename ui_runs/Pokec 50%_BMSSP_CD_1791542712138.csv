@@ -1,0 +1,2 @@
+Topology,Environment,Algorithm,Time_Seconds,Mismatches,Status,Run
+Pokec 50%,diffusion,BMSSP_CD,51.719256,0,VERIFIED EXACT,1

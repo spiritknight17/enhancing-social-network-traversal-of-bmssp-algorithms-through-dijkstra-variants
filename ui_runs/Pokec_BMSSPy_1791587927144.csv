@@ -1,0 +1,11 @@
+Topology,Environment,Algorithm,Time_Seconds,Mismatches,Status,Run
+Pokec,diffusion,BMSSPy,121.946274,0,VERIFIED EXACT,1
+Pokec,diffusion,BMSSPy,96.117311,0,VERIFIED EXACT,2
+Pokec,diffusion,BMSSPy,74.241802,0,VERIFIED EXACT,3
+Pokec,diffusion,BMSSPy,75.548822,0,VERIFIED EXACT,4
+Pokec,diffusion,BMSSPy,81.518603,0,VERIFIED EXACT,5
+Pokec,diffusion,BMSSPy,83.032792,0,VERIFIED EXACT,6
+Pokec,diffusion,BMSSPy,81.860190,0,VERIFIED EXACT,7
+Pokec,diffusion,BMSSPy,86.946997,0,VERIFIED EXACT,8
+Pokec,diffusion,BMSSPy,92.423812,0,VERIFIED EXACT,9
+Pokec,diffusion,BMSSPy,94.738431,0,VERIFIED EXACT,10

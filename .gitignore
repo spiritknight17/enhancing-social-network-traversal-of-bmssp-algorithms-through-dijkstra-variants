@@ -1,0 +1,14 @@
+# Large raw graphs + diffusion binaries exceed GitHub 100MB limit.
+# Hosted on Google Drive (see Cloud Drive.txt / README.md).
+livejournal.txt
+orkut.txt
+soc_pokec.txt
+*.bin
+*.mov
+
+# Local caches / ephemeral UI state
+.gradio/
+ui_runs/.gradio/
+__pycache__/
+.ipynb_checkpoints/
+.vs/

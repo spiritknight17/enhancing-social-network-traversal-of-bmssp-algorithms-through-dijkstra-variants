@@ -1,0 +1,11 @@
+Topology,Environment,Algorithm,Time_Seconds,Mismatches,Status,Run
+Orkut,diffusion,Dijkstra,6.740387,0,VERIFIED EXACT,1
+Orkut,diffusion,Dijkstra,6.866702,0,VERIFIED EXACT,2
+Orkut,diffusion,Dijkstra,8.149400,0,VERIFIED EXACT,3
+Orkut,diffusion,Dijkstra,7.236280,0,VERIFIED EXACT,4
+Orkut,diffusion,Dijkstra,8.642076,0,VERIFIED EXACT,5
+Orkut,diffusion,Dijkstra,8.797382,0,VERIFIED EXACT,6
+Orkut,diffusion,Dijkstra,8.855715,0,VERIFIED EXACT,7
+Orkut,diffusion,Dijkstra,9.458843,0,VERIFIED EXACT,8
+Orkut,diffusion,Dijkstra,8.293326,0,VERIFIED EXACT,9
+Orkut,diffusion,Dijkstra,9.269375,0,VERIFIED EXACT,10

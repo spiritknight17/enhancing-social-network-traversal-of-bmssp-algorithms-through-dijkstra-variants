@@ -1,0 +1,11 @@
+Topology,Environment,Algorithm,Time_Seconds,Mismatches,Status,Run
+LiveJournal,diffusion,Dijkstra,8.378681,0,VERIFIED EXACT,1
+LiveJournal,diffusion,Dijkstra,8.172415,0,VERIFIED EXACT,2
+LiveJournal,diffusion,Dijkstra,10.391092,0,VERIFIED EXACT,3
+LiveJournal,diffusion,Dijkstra,9.150506,0,VERIFIED EXACT,4
+LiveJournal,diffusion,Dijkstra,8.038797,0,VERIFIED EXACT,5
+LiveJournal,diffusion,Dijkstra,10.483987,0,VERIFIED EXACT,6
+LiveJournal,diffusion,Dijkstra,9.971487,0,VERIFIED EXACT,7
+LiveJournal,diffusion,Dijkstra,7.412177,0,VERIFIED EXACT,8
+LiveJournal,diffusion,Dijkstra,7.621195,0,VERIFIED EXACT,9
+LiveJournal,diffusion,Dijkstra,7.683209,0,VERIFIED EXACT,10
